@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-webserver:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2020-05-07T18:02:08.6416417+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 97b4f81eefbeffe53e271c912c9259ad8b102eac2ffdab98f1b752a7664f72e8
+    name: my-webserver
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/fbertos/my-helm-repo/master/my-webserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-07T18:02:08.63997+02:00"
